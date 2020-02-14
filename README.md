@@ -1,1 +1,1 @@
-# Courses Documentation
+# courses-documentation
